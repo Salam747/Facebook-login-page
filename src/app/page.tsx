@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../app/pictures/fb.png"
+import logo from "../../public/pictures/fb.png"
 export default function Home() {
   return (
     <div className="bg-gray-100 h-screen flex items-center justify-center">
